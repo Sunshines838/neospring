@@ -24,7 +24,6 @@ body {
   border: 5px solid #4b6a92; /* Border color and thickness */
   border-radius: 3px; /* Optional: Rounded corners */
   width: 31.5%; /* Adjust as needed */
-  weight: auto;
   }
   
   /* Optional: Add a hover effect */
@@ -46,7 +45,6 @@ body {
   border: 5px solid #4b6a92; /* Border color and thickness */
   border-radius: 3px; /* Optional: Rounded corners */
   width: 31.5%; /* Adjust as needed */
-  weight: auto;
   }
   
   /* Optional: Add a hover effect */
