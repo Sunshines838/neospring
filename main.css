@@ -2,7 +2,19 @@ body {
     background-color: #bad5e4;
 }
 
-.neospring-iframe { 
-    height: 300px;
-    width: 50%;
+.neospring-iframe {
+    height: 270px;
+    width: 100%;
+    margin: 0 aut;
+    position: sticky;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
 }
