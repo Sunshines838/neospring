@@ -23,7 +23,7 @@ body {
 .HER{
   border: 5px solid #4b6a92; /* Border color and thickness */
   border-radius: 3px; /* Optional: Rounded corners */
-  width: 32.9%; /* Adjust as needed */
+  width: 31.5%; /* Adjust as needed */
   weight: auto;
   }
   
@@ -32,8 +32,9 @@ body {
     opacity: 0.8; /* Makes the image slightly transparent on hover */
   }
   .frank-ocean{
-    border: none;
-    width: 32.9%; /* Adjust as needed */
+    border: 5px solid #4b6a92; /* Border color and thickness */
+    border-radius: 3px; /* Optional: Rounded corners */
+    width: 31.5%; /* Adjust as needed */
     height: auto;
   }
   
@@ -42,9 +43,10 @@ body {
     opacity: 0.8; /* Makes the image slightly transparent on hover */
   }
 .lucky-daye{
-    border: none;
-    width: 32.9%; /* Adjust as needed */
-    height: auto;
+  border: 5px solid #4b6a92; /* Border color and thickness */
+  border-radius: 3px; /* Optional: Rounded corners */
+  width: 31.5%; /* Adjust as needed */
+  weight: auto;
   }
   
   /* Optional: Add a hover effect */
