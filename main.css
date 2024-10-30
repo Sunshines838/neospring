@@ -18,3 +18,36 @@ h1 {
     font-weight: 400;
     font-style: normal;
 }
+
+/* Remove any border that might appear on the image link */
+.HER{
+    border: none;
+    width: 32.9%; /* Adjust as needed */
+    height: auto;
+  }
+  
+  /* Optional: Add a hover effect */
+  .HER:hover {
+    opacity: 0.8; /* Makes the image slightly transparent on hover */
+  }
+  .frank-ocean{
+    border: none;
+    width: 32.9%; /* Adjust as needed */
+    height: auto;
+  }
+  
+  /* Optional: Add a hover effect */
+  .frank-ocean:hover {
+    opacity: 0.8; /* Makes the image slightly transparent on hover */
+  }
+.lucky-daye{
+    border: none;
+    width: 32.9%; /* Adjust as needed */
+    height: auto;
+  }
+  
+  /* Optional: Add a hover effect */
+  .lucky-daye:hover {
+    opacity: 0.8; /* Makes the image slightly transparent on hover */
+  }
+  
