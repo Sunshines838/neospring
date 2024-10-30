@@ -1,3 +1,8 @@
 body {
     background-color: #bad5e4;
- }
+}
+
+.neospring-iframe { 
+    height: 300px;
+    width: 50%;
+}
