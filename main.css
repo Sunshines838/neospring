@@ -96,6 +96,8 @@ border: 5px solid #4b6a92; /* Border color and thickness */
 border-radius: 3px; /* Optional: Rounded corners */
 width: 31.5%; /* Adjust as needed */
 }
+.lucky-daye:hover {
+  opacity: 0.8; 
 /* Reset some default styling */
 * {
 margin: 0;
